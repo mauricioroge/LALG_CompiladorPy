@@ -1,7 +1,5 @@
-# Projeto de Compiladores I
-# Autores: Mauricio Rogerio Ramos Araujo
-#          Thais Justi Toledo
-# Materia: Compiladores I
+# Projeto de Compiladores II
+# Autor: Mauricio Rogerio Ramos Araujo
 # ---------------------------------------------
 # Trabalho realizado utilizando como referencia de base: https://github.com/v-assys/CompiladorPhyton
 from Analisador_lexico import AnalisadorLexico
