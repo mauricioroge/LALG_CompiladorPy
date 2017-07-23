@@ -1,3 +1,0 @@
-Erro sintatico - Erro encontrado em: , esperado ')' - linha: 13
-Erro sintatico - Erro encontrado em: , esperado 'end' - linha: 13
-Erro sintatico - Erro encontrado em: , esperado '.' - linha: 13

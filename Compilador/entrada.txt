@@ -1,0 +1,20 @@
+program Soma
+procedure teste(a:real; b:real)
+	var a,b:real;
+begin
+	read(a,b);
+	a:=5
+end;
+var
+   	a,b : real;
+var
+	c : real
+begin
+    reada(b,a);
+    a := a + 12;
+    while a <> b do
+    	a := 5;
+    	write(a,b)
+    $;
+    write(a)
+end.
